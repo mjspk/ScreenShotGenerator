@@ -1,0 +1,2 @@
+# ScreenShotGenerator
+ ScreenShotGenerator
